@@ -1,0 +1,19 @@
+body{
+    background: url("https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/12/bad_santa_2_still.jpg") no-repeat center;
+    color: black;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    font-size:  40px;
+    margin: 40px 0px 0px;
+}
+
+.time-unit, .time-unit span{
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid red;
+}
