@@ -15,5 +15,12 @@ h1{
     padding: 10px;
     background-color: white;
     border-radius: 5px;
-    border: 1px solid red;
+    border: 1px solid green;
+}
+#out{
+    color: white;
+}
+button{
+    padding: 10px;
+    opacity: 0.5;
 }
